@@ -1,0 +1,1 @@
+fetch("//uvpkrv.dnslog.cn")
