@@ -1,1 +1,1 @@
-fetch("pwuplh.dnslog.cn");
+fetch("bum78y.dnslog.cn");
